@@ -387,7 +387,7 @@ img:hover {
 100%{opacity: 100%;}
 }
 #hobbik {
-	animation: hobbik 12s linear 1;
+	animation: hobbik 10s linear 1;
 }
 @keyframes hobbik {
 	0%{opacity:0%;}
